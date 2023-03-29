@@ -1,0 +1,39 @@
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.csprojAssemblyReference.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Sara\Desktop\C#\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\Sara\Desktop\C#\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Sara\Desktop\C#\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

@@ -1,0 +1,51 @@
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\obj\Debug\netcoreapp3.1\DL.csprojAssemblyReference.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\obj\Debug\netcoreapp3.1\DL.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\bin\Debug\netcoreapp3.1\DL.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\bin\Debug\netcoreapp3.1\DL.pdb
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\bin\Debug\netcoreapp3.1\Entities.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.csproj.AssemblyReference.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.csproj.AssemblyReference.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Sara\Desktop\C#\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\Sara\Desktop\C#\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\Sara\Desktop\C#\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Sara\Desktop\C#\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sara\Desktop\C#\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.csproj.AssemblyReference.cache
+C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.pdb

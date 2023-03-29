@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4IXh+T70p/GZvXVOx+yBYN9GyRv4+V1o+7WTScRcIrlEkv+kyczpXznlBF6m8IsaJEX3B84KJvn/49WjYEqVFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sara\\Desktop\\C#\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sara\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Sara\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

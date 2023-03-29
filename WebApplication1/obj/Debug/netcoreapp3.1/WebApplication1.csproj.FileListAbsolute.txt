@@ -1,0 +1,418 @@
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+M:\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+M:\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\מריקי\web-api\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\project\less1\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\מאיר גוט\Downloads\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\BL.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\DL.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\nlog.config
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\NLog.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\DTO.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\הנדסאים\יד\Web Api\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\nlog.config
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\NLog.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\BL.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\DL.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\DTO.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Entities.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\BL.pdb
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\DTO.pdb
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\DL.pdb
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Entities.pdb
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Pack.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication1.props
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+D:\D\הנדסאים\יד\מחצית א\Web Api\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Pack.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Sara\Desktop\‏‏WebApplication1 - עותק\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\nlog.config
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.StaticWebAssets.xml
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\NLog.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Sara\Desktop\C#\WebApplication1\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Pack.cache
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\Sara\Desktop\C#\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
