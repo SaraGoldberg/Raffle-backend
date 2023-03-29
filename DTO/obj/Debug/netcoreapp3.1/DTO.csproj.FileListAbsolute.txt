@@ -37,3 +37,13 @@ C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
 C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
 C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.dll
 C:\Users\Sara\Desktop\C#\DTO\obj\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DTO\bin\Debug\netcoreapp3.1\DTO.deps.json
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DTO\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DTO\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.AssemblyReference.cache
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DTO\obj\Debug\netcoreapp3.1\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DTO\obj\Debug\netcoreapp3.1\DTO.AssemblyInfo.cs
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DTO\obj\Debug\netcoreapp3.1\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DTO\obj\Debug\netcoreapp3.1\DTO.dll
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DTO\obj\Debug\netcoreapp3.1\DTO.pdb

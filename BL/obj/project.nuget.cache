@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3DZ4ankUWNeHLYgx4PbBoNqG42mAMlghbWo2CghFtTsg/Gn3+9rnwIOaoNIC0UWiuWs1TFaLkzKIGTDd8z4WHg==",
+  "dgSpecHash": "/AfHSlOKTdNnWRRigzJhnxU5hIsk6K0ScAKsAqrpxCt153ePZH1Lonso8rF3B/Ga552zw/fscoNIjF5eT6ebGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sara\\Desktop\\C#\\BL\\BL.csproj",
+  "projectFilePath": "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\BL\\BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sara\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Sara\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

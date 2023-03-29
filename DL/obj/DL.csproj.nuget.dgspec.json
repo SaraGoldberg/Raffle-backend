@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sara\\Desktop\\C#\\DL\\DL.csproj": {}
+    "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\DL\\DL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sara\\Desktop\\C#\\DL\\DL.csproj": {
+    "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\DL\\DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sara\\Desktop\\C#\\DL\\DL.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\DL\\DL.csproj",
         "projectName": "DL",
-        "projectPath": "C:\\Users\\Sara\\Desktop\\C#\\DL\\DL.csproj",
+        "projectPath": "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\DL\\DL.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sara\\Desktop\\C#\\DL\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\DL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Sara\\Desktop\\C#\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Sara\\Desktop\\C#\\Entities\\Entities.csproj"
+              "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\Entities\\Entities.csproj"
               }
             }
           }
@@ -95,14 +95,14 @@
         }
       }
     },
-    "C:\\Users\\Sara\\Desktop\\C#\\Entities\\Entities.csproj": {
+    "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sara\\Desktop\\C#\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Sara\\Desktop\\C#\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Sara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sara\\Desktop\\C#\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

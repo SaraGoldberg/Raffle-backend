@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GDRlU2JKm6rRt0Z9R2zkXzX3kT7Zn0Wpsrf8CuQd0exUiQPCqXsoSxNQ1KMDxpHPsGsOjck1wCoMfzgNxz/sFQ==",
+  "dgSpecHash": "uM8nLSjYbvufe5incx0oakTvBsOAACoJAxe+5DjGoyAo5vyxAvoKb8ARPYLWjQe6zhAea8UrTEm+KqCuWE2kiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sara\\Desktop\\C#\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Sara\\Desktop\\פרויקט למיכל\\Raffle-C#\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sara\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Sara\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",

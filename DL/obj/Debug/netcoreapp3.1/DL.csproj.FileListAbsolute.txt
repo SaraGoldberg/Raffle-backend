@@ -49,3 +49,16 @@ C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.
 C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
 C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.dll
 C:\Users\Sara\Desktop\C#\DL\obj\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\bin\Debug\netcoreapp3.1\DL.deps.json
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\bin\Debug\netcoreapp3.1\DL.dll
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\bin\Debug\netcoreapp3.1\DL.pdb
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\obj\Debug\netcoreapp3.1\DL.csproj.AssemblyReference.cache
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\obj\Debug\netcoreapp3.1\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfoInputs.cache
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\obj\Debug\netcoreapp3.1\DL.AssemblyInfo.cs
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\obj\Debug\netcoreapp3.1\DL.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\obj\Debug\netcoreapp3.1\DL.csproj.CopyComplete
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\obj\Debug\netcoreapp3.1\DL.dll
+C:\Users\Sara\Desktop\פרויקט למיכל\Raffle-C#\DL\obj\Debug\netcoreapp3.1\DL.pdb
